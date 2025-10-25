@@ -1,5 +1,6 @@
 # type
 #It can type anything you input into int, float, or string
+
 something=input("Enter something: ")
 print("You entered:", something)
 def check_data_type(something):
